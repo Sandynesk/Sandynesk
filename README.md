@@ -1,23 +1,26 @@
-﻿# Hello, I'm Sandynesk 👋
+﻿# Hello, I'm Emanuel 👋
 
 ![Logo](https://welcome.js.org/logo.png) <!-- Add an image or logo -->
 
-## About me
+## Sobre mim
 
-- 🎓 Graduated from Senai Cimatec
-- 🌟 Passionate about music games and programming
-- 📚 Currently learning React, JavaScript, C#, HTML5, CSS, Python, Java, C and C++.
+🎓 Formado pelo Senai Cimatec
+
+🌟 Apaixonado por jogos musicais e programação
+
+📚 Atualmente estudando React, JavaScript, C#, HTML5, CSS, Python, Java, C e C++
+
+🌐 https://emanuelsales.netlify.app/
 ![Alt text](<My Experience (1).png>)
 - 🌐 https://emanuelsales.netlify.app/
 
-## Featured Projects
+## Projetos em Destaque
+ConsuWeb: Plataforma web sobre direitos do consumidor, com fórum, perguntas e respostas, feita com React, Node.js e MySQL.
 
-- [Project 1](link-to-the-project): Brief description of the project.
-- [Project 2](link-to-the-project): Brief description of the project.
-- [Project 3](link-to-the-project): Brief description of the project.
+SAEP: lendingPage sobre uma "plataforma de ensino", projeto para evidênciar o uso de banco de dados.
 
-## Contact
+## Contato
 
 - 📧 Email: emsalesof@gmail.com
-- 🌐 Twitter: [@seutwitter](https://twitter.com/seutwitter)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/seulinkedin)
+- 🌐 Twitter: [@Sandynesk](https://x.com/Sandynesk)
+- 💼 LinkedIn: [Emanuel Sales](https://www.linkedin.com/in/emanuel-sales/)
