@@ -65,6 +65,8 @@
     <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
   </div>
 
+##
+
   <br>
 <br>
 
@@ -83,6 +85,7 @@
   <a href="https://linkedin.com/in/emanuel-sales-b9b55524b/"><img src="https://img.shields.io/badge/LinkedIn-202020?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/sandynesk/"><img src="https://img.shields.io/badge/Instagram-202020?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="//discord.com/users/342016481221017601"><img src="https://img.shields.io/badge/Discord-202020?style=for-the-badge&logo=Discord&logoColor=white" /></a>
+##
 </div>
 
 <br>
@@ -98,6 +101,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=202020&height=100&section=footer"/>
 </div>
+
 
 
 
