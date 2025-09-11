@@ -1,6 +1,8 @@
-﻿# Hello, I'm Emanuel 👋
+# HELLO, I'M EMANUEL SALES 👋
 
-![Logo](https://welcome.js.org/logo.png) <!-- Add an image or logo -->
+<div align="center">
+  <img src="https://s1.ezgif.com/tmp/ezgif-10dacc94a0fcc6.gif" alt="Ilustração do meu espaço de trabalho" width="auto" height="400px">
+</div>
 
 ## Sobre mim
 
@@ -24,3 +26,4 @@ SAEP: lendingPage sobre uma "plataforma de ensino", projeto para evidênciar o u
 - 📧 Email: emsalesof@gmail.com
 - 🌐 Twitter: [@Sandynesk](https://x.com/Sandynesk)
 - 💼 LinkedIn: [Emanuel Sales](https://www.linkedin.com/in/emanuel-sales/)
+
