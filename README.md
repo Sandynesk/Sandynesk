@@ -82,7 +82,7 @@
   <br><br>
 
   <a href="mailto:emsalesof@gmail.com"><img src="https://img.shields.io/badge/Gmail-202020?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/emanuel-sales-b9b55524b/"><img src="https://img.shields.io/badge/LinkedIn-202020?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/emanuel-sales/"><img src="https://img.shields.io/badge/LinkedIn-202020?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/sandynesk/"><img src="https://img.shields.io/badge/Instagram-202020?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="//discord.com/users/342016481221017601"><img src="https://img.shields.io/badge/Discord-202020?style=for-the-badge&logo=Discord&logoColor=white" /></a>
 ##
@@ -101,6 +101,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=202020&height=100&section=footer"/>
 </div>
+
 
 
 
