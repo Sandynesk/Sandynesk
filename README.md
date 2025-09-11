@@ -1,29 +1,107 @@
-# HELLO, I'M EMANUEL SALES 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=404040"/>
 
 <div align="center">
-  <img src="https://s1.ezgif.com/tmp/ezgif-10dacc94a0fcc6.gif" alt="Ilustração do meu espaço de trabalho" width="auto" height="400px">
+
+  
+  <b>`サンディネスク`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Emanuel Sales</b>
+  </samp>
 </div>
 
-## Sobre mim
+<br>
+<div align="center" width="100%">
+  
+  
 
-🎓 Formado pelo Senai Cimatec
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Iosevka&color=E0E0E0&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Iosevka&color=202020&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!"
+      alt="Typing SVG"
+    />
+  </picture>
+</div>
 
-🌟 Apaixonado por jogos musicais e programação
+<div align="center">
+  <img src="https://img.shields.io/badge/Sandynesk-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+</div>
 
-📚 Atualmente estudando React, JavaScript, C#, HTML5, CSS, Python, Java, C e C++
+<br>
+<br>
+<br>
 
-🌐 https://emanuelsales.netlify.app/
-![Alt text](<My Experience (1).png>)
-- 🌐 https://emanuelsales.netlify.app/
+<div align="center">
+  <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=sandynesk&show_icons=true&count_private=true&rank_icon=github&font=Iosevka&bg_color=202020&title_color=808080&text_color=808080&icon_color=808080&border_color=404040&ring_color=808080"/>
+  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandynesk&layout=compact&font=Iosevka&langs_count=16&bg_color=202020&title_color=808080&text_color=808080&border_color=404040"/>
+  
+  <br>
+  <br>
+  
+  <img align="center" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sandynesk&background=202020&border=404040&stroke=808080&ring=808080&fire=808080&currStreakNum=E0E0E0&sideNums=808080&currStreakLabel=808080&sideLabels=808080&dates=606060"/>
+</div>
 
-## Projetos em Destaque
-ConsuWeb: Plataforma web sobre direitos do consumidor, com fórum, perguntas e respostas, feita com React, Node.js e MySQL.
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  
+  
+  <div align="center">
+    <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  </div>
 
-SAEP: lendingPage sobre uma "plataforma de ensino", projeto para evidênciar o uso de banco de dados.
+  <br>
+<br>
 
-## Contato
+<details align="center">
+  <summary>
+    <samp><b>Mais Informações e Contato</b></samp>
+  </summary>
+  
+<br>
 
-- 📧 Email: emsalesof@gmail.com
-- 🌐 Twitter: [@Sandynesk](https://x.com/Sandynesk)
-- 💼 LinkedIn: [Emanuel Sales](https://www.linkedin.com/in/emanuel-sales/)
+<div align="center">
+  <samp><b>Conecte-se comigo:</b></samp>
+  <br><br>
+
+  <a href="mailto:emsalesof@gmail.com"><img src="https://img.shields.io/badge/Gmail-202020?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/emanuel-sales-b9b55524b/"><img src="https://img.shields.io/badge/LinkedIn-202020?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/sandynesk/"><img src="https://img.shields.io/badge/Instagram-202020?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="//discord.com/users/342016481221017601"><img src="https://img.shields.io/badge/Discord-202020?style=for-the-badge&logo=Discord&logoColor=white" /></a>
+</div>
+
+<br>
+</details>
+
+<br>
+
+<div align="center">
+  <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fsandynesk&s=30&c=808080&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p>
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=202020&height=100&section=footer"/>
+</div>
+
+
+
+
+
+
 
