@@ -36,13 +36,20 @@
 <br>
 
 <div align="center">
-  <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=sandynesk&show_icons=true&count_private=true&rank_icon=github&font=Iosevka&bg_color=202020&title_color=808080&text_color=808080&icon_color=808080&border_color=404040&ring_color=808080"/>
-  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandynesk&layout=compact&font=Iosevka&langs_count=16&bg_color=202020&title_color=808080&text_color=808080&border_color=404040"/>
+  <a href="https://github.com/sandynesk">
+    <img height="180" src="https://SEU-LINK-DA-VERCEL.app/api?username=sandynesk&show_icons=true&rank_icon=github&theme=dark&bg_color=202020&title_color=808080&text_color=808080&icon_color=808080&border_color=404040&ring_color=808080&hide_border=false&count_private=true" alt="GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/sandynesk">
+    <img height="180" src="https://SEU-LINK-DA-VERCEL.app/api/top-langs?username=sandynesk&layout=compact&theme=dark&bg_color=202020&title_color=808080&text_color=808080&border_color=404040&hide_border=false&count_private=true" alt="Top Languages" />
+  </a>
   
   <br>
   <br>
   
-  <img align="center" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=sandynesk&background=202020&border=404040&stroke=808080&ring=808080&fire=808080&currStreakNum=E0E0E0&sideNums=808080&currStreakLabel=808080&sideLabels=808080&dates=606060"/>
+  <a href="https://github.com/sandynesk">
+    <img src="https://streak-stats.demolab.com?user=sandynesk&theme=dark&background=202020&border=404040&stroke=808080&ring=808080&fire=808080&currStreakNum=E0E0E0&sideNums=808080&currStreakLabel=808080&sideLabels=808080&dates=606060" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -100,6 +107,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=202020&height=100&section=footer"/>
 </div>
+
 
 
 
